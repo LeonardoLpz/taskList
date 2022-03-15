@@ -1,4 +1,7 @@
 # task
+```
+This is a task list using vue.js and store handling with vuex
+```
 
 ## Project setup
 ```
